@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+envf/
+
+# Environment files
+.env
+
+# Uploads
+uploads/
+
+# Large model files
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
