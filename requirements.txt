@@ -6,4 +6,5 @@ mediapipe==0.10.14
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.4.2
-groq==0.9.0
+groq>=0.9.0
+httpx>=0.27.0
